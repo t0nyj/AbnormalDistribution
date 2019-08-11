@@ -16,6 +16,10 @@ Goto http://thoppil.me/AbnormalDistribution/ to view medal distribution of count
 ## Eldho John Paul
 
 ## Antony Joseph Thoppil
+
+Library used for plotting: Altair
+
+Plots
 - Age Distribution of Gold Medals
 - Sports in which over 50 and under 15 got Gold
 - Women in olympics
