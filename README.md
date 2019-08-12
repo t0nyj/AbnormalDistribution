@@ -23,7 +23,13 @@ Plots
 - Bar Plot : Age dristibution of male and females by sport 
     
 ## Eldho John Paul
+plots 
 
+
+- Distribution of height of all athletes 
+- variation in Height over year for Female Lifters
+- Women medals per edition of the Games
+- Variation of Age for Male Athletes over time
 ## Antony Joseph Thoppil
 
 Library used for plotting: Altair
