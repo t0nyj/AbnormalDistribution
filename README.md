@@ -12,7 +12,16 @@
 Goto http://thoppil.me/AbnormalDistribution/ to view medal distribution of countries over the years
 
 ## Tejaswini Rajendra Kale
+Plots
 
+- Geographic Map : Medals won by countries from 1890 to 2016
+- Bar Plot : Age of winners on year selection
+- Line Graph : Males and Females participating in olympic over years
+- Donut Pie Chart : Top 10 countries with medals by sex
+- Bar Plot : Countries with gold medalist when olymic held on selected venue
+- Heat Map : Mean Age of Medal Winner
+- Bar Plot : Age dristibution of male and females by sport 
+    
 ## Eldho John Paul
 
 ## Antony Joseph Thoppil
