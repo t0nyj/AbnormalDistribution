@@ -1,14 +1,17 @@
 # Team name: AbnormalDistribution
- <br />
+ <br/> 
+ 
 ## Team members:
 - Tejaswini Rajendra Kale(10514273)
 - Eldho John Paul(10517084)
 - Antony Joseph Thoppil(10519069)
- <br />
+ <br/>
+ 
 ## Dataset
 120 years of Olympic history: athletes and results
 (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
- <br />
+ <br/>
+ 
 ## The Visualisation
 This visualisation aims to effectively showcase the Olympic Gold Medalists.
 It is an interactive map with four plots.
@@ -23,8 +26,8 @@ Goto http://thoppil.me/AbnormalDistribution/ for the final visualisation.
 - Use the dropdown menu to chose top 25 countries with most gold medals
 - Double click empty area of plot 1 to reset the location filter.
 
- <br />
- <br />
+ <br/>
+ <br/>
 
 ## Preliminary Data Exploration and Comments by Team Members
 
