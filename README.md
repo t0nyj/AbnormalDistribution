@@ -53,9 +53,9 @@ Data exploration - plots
 - Variation of Age for Male Athletes over time
 
 ## Antony Joseph Thoppil
-Data exploration - plots
 
-Plots
+The data exploration and sample visualisations notebook is uploaded at /10519069 
+The following were plotted after examining the data.
 - Age Distribution of Gold Medals
 - Sports in which over 50 and under 15 got Gold
 - Women in olympics
