@@ -20,7 +20,7 @@ It is an interactive map with four plots.
 - Plot 3: Physical attributes of Females
 - Plot 4: Physical attributes of Males
 
-Goto http://thoppil.me/AbnormalDistribution/ for the final visualisation.
+# Goto http://thoppil.me/AbnormalDistribution/ for the final visualisation.
 - Move mouse over plot 1 to get visualise data by Sport.
 - Use `Shift` while moving mouse to visualise combination of sports.
 - Use the dropdown menu to chose top 25 countries with most gold medals
