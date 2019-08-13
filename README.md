@@ -54,7 +54,7 @@ Data exploration - plots
 
 ## Antony Joseph Thoppil
 
-The data exploration and sample visualisations notebook is uploaded at /10519069 
+The data exploration and sample visualisations notebook is uploaded at /10519069. 
 The following were plotted after examining the data.
 - Age Distribution of Gold Medals
 - Sports in which over 50 and under 15 got Gold
