@@ -73,7 +73,7 @@ Data exploration - Plots
  - It can be observerd that most of the gold medalist are experienced than brownze medalist player
 
 - ### Bar Plot : Age distibution of male and females by sport
- ![alt text](Plot_Img/Map.png)
+ ![alt text](Plot_Img/BarAge.png)
  #### Result
  - Plot represents age distribution of male and females depending on sport selection. From this graph we can analyse which age group have more participants in diffeent sports. For swimming age group 19 to 24 have maximum participants where as for femals it is 16 to 23
 
