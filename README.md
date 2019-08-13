@@ -35,46 +35,46 @@ The notebooks and plots are uploaded.
 
 ## Tejaswini Rajendra Kale
 
-Data exploration - Plots
-- ### Geographic Map : Medals won by countries from 1890 to 2016
+### Data exploration - Plots
+#### Geographic Map : Medals won by countries from 1890 to 2016
  ![alt text](Plot_Img/Map.png)
- #### Result
+ ##### Result
 - Map represents total nuber of medals won by diffrent countries form 1890 to 2016.
 - USA has won maximum number of medals 5637 followed by Canada with 1352 and third number in getting highest medal is Austarlia 1320
 - Some countries did win only 1 medal such as Gabon where as some countris did not win any
 
-- ### Bar Plot : Age of winners on year selection
+#### Bar Plot : Age of winners on year selection
  ![alt text](Plot_Img/MeanAge.png)
- #### Result
+ ##### Result
  - Plot represents mean age of winners with country from above two graphs we can annalyse that countries with less mean age have   winned high number of medals. This plot is interactive can check with each year difference in mean age of winners
  
-- ### Line Graph : Males and Females participating in olympic over years
+#### Line Graph : Males and Females participating in olympic over years
  ![alt text](Plot_Img/Line.png)
- #### Result
+ ##### Result
  - It is visible from graph that till 1924 there was very less pticiption for female where as with development there is growth in number of females participating in olympic.
  - Gap between number of females and males participated is almost same over yeras
  
-- ### Donut Pie Chart : Top 10 countries with medals by sex
+#### Donut Pie Chart : Top 10 countries with medals by sex
  ![alt text](Plot_Img/DonutPie.png)
- #### Result
+ ##### Result
   - USA has highest number of male and female medal winners.
  - Where as countries like united kindom and Finland have great apperiance in male catagory and does not show that great -participation in female catagory
  - China is only country which is among top 10 medal winner in femal catagory who does not come in top 10 for male catagory
  
-- ### Bar Plot : Countries with gold medalist when olymic held on selected venue
+#### Bar Plot : Countries with gold medalist when olymic held on selected venue
  ![alt text](Plot_Img/Winner.png)
- #### Result
+ ##### Result
   - Plot represents number of gold medals won by countries when held on selecteded venue. From this graph we can analyse which country performed well in which city
  
-- ### Heat Map : Mean Age of Medal Winner
+#### Heat Map : Mean Age of Medal Winner
  ![alt text](Plot_Img/Heatmap.png)
- #### Result
+ ##### Result
  - This heat map represents mean age of Medal winners with year from visualization it is understandable that from 1964 to 1994 mean age of winner was less than 25 where as on both ends of map mean age high .
  - It can be observerd that most of the gold medalist are experienced than brownze medalist player
 
-- ### Bar Plot : Age distibution of male and females by sport
+#### Bar Plot : Age distibution of male and females by sport
  ![alt text](Plot_Img/BarAge.png)
- #### Result
+ ##### Result
  - Plot represents age distribution of male and females depending on sport selection. From this graph we can analyse which age group have more participants in diffeent sports. For swimming age group 19 to 24 have maximum participants where as for femals it is 16 to 23
 
 
