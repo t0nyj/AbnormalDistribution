@@ -49,7 +49,7 @@ Data exploration - Plots
  - Plot represents mean age of winners with country from above two graphs we can annalyse that countries with less mean age have   winned high number of medals. This plot is interactive can check with each year difference in mean age of winners
  
 - ### Line Graph : Males and Females participating in olympic over years
- ![alt text](Plot_Img/Map.png)
+ ![alt text](Plot_Img/Line.png)
  #### Result
  - It is visible from graph that till 1924 there was very less pticiption for female where as with development there is growth in number of females participating in olympic.
  - Gap between number of females and males participated is almost same over yeras
